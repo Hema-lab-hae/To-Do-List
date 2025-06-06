@@ -1,0 +1,4 @@
+"study python forv 1 hour"
+"how is the class"
+happy
+"happy"
